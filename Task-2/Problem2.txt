@@ -1,0 +1,16 @@
+Step 1: Function Main
+Step 2: Declare Integer number, n1, n2, n3, count
+Step 3: Output "Enter nth term"
+Step 4: Input number
+Step 5: Assign n1 = 0
+Step 6: Assign n2 = 1
+Step 7: Assign n3 = n1+n2
+Step 8: Assign count = 4
+Step 9: While count<=number
+Step 10: Assign n1 = n2
+Step 11: Assign n2 = n3
+Step 12: Assign n3 = n1+n2
+Step 13: Assign count = count+1
+Step 14: End
+Step 15: Output "Nth Term is " & n3
+Step 16: End
